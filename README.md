@@ -1,7 +1,7 @@
 ![Data Science Trends](https://imageio.forbes.com/specials-images/imageserve/635f79fbf214917bd2876e03/The-Top-5-Data-Science-And-Analytics-Trends-In-2023/960x0.jpg?format=jpg&width=1440)
 ## Hi there 👋
 <h3 align="center">A passionate data scientist and machine learning enthusiast from Yemen</h3>
-<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Geek Work - Computer Scientist Profession Illustration">
+<img align="right" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Geek Work - Computer Scientist Profession Illustration">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mazenasag&label=Profile%20views&color=0e75b6&style=flat" alt="mazenasag" /> </p>
 
