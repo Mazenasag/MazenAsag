@@ -4,7 +4,7 @@
 <h3 align="center">🚀 Data Scientist | Machine Learning Enthusiast | NLP Explorer from Yemen 🇾🇪</h3>
 
 <p align="center">
-  <a href="https://mazenasag.github.io/" target="_blank"><img src="https://img.shields.io/badge/My%20Portfolio-Visit%20Now-brightgreen?style=for-the-badge&logo=google-chrome" /></a>
+  <a href="https://mazenasag.github.io/mazen/" target="_blank"><img src="https://img.shields.io/badge/My%20Portfolio-Visit%20Now-brightgreen?style=for-the-badge&logo=google-chrome" /></a>
   <a href="mailto:mezonabhy@gmail.com"><img src="https://img.shields.io/badge/Email-mezonabhy@gmail.com-blue?style=for-the-badge&logo=gmail" /></a>
 </p>
 
