@@ -16,13 +16,20 @@
 
 ### 💼 About Me
 
-- 🔭 Currently working on [Fraud Detection using PCA and Regression Models](https://github.com/Mazenasag/Detecting-Card-Fraud)
-- 🌱 Diving deep into **Advanced ML Pipelines & Model Deployment**
-- 🤖 Exploring the intersection of **AI, Psychology, and Human Behavior**
-- 💡 Passionate about **building Emotion-Aware AI for Customer Service**
+- 🔭 Currently focused on Machine Learning Engineering [Developing and deploying end-to-end ML solutions, with hands-on experience in fraud detection using PCA, regression models, and scalable pipelines.](https://github.com/Mazenasag/Detecting-Card-Fraud)
+- 🌱  Building Advanced ML Pipelines & Model Deployment Skills **Deeply involved in designing real-time data processing systems, automating model monitoring (MLOps), and integrating models into production using cloud services like AWS SageMaker and Google AI Platform.**
+- 🤖Exploring AI, Psychology, and Human-Centric Solutions **Passionate about bridging AI with human behavior, user experience, and personalization. Skilled in building recommender systems, user behavior analysis, and data-driven product improvements.**
+- 💡 Passionate about **building Emotion-Aware AI for Customer Service ,developing machine learning models for content recommendation, and user engagement analytics, inspired by the latest advances in deep learning and NLP.**
 - 👨‍💻 All my work is available at: [GitHub Portfolio](https://github.com/Mazenasag)
+- Real-time Machine Learning Pipelines.
+- Real-time Machine Learning Pipelines.
+- Emotion-Aware AI for Customer Service.
+- Recommender Systems for Digital Content Platforms.
+
+  
 - 📫 Reach me at: **mezonabhy@gmail.com**
-- ⚡ Fun fact: *I combine cognitive science with data science to craft smarter solutions*
+- 🌐 Website Portfolio [mazenasag.github.io/mazen/]
+- ⚡ Fun fact: *I enjoy combining cognitive science with advanced ML techniques—creating smarter, human-centered AI solutions that make a real impact.*
 
 ---
 
