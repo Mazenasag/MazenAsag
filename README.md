@@ -28,7 +28,7 @@
 
   
 - 📫 Reach me at: **mezonabhy@gmail.com**
-- 🌐 Website Portfolio [mazenasag.github.io/mazen/]
+- 🌐 Website Portfolio [My Website](https://mazenasag.github.io/mazen/))
 - ⚡ Fun fact: *I enjoy combining cognitive science with advanced ML techniques—creating smarter, human-centered AI solutions that make a real impact.*
 
 ---
