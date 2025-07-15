@@ -1,7 +1,7 @@
 <img src="https://imageio.forbes.com/specials-images/imageserve/635f79fbf214917bd2876e03/The-Top-5-Data-Science-And-Analytics-Trends-In-2023/960x0.jpg?format=jpg&width=1440" width="100%" height="300"/>
 
 <h1 align="center">Hi there 👋, I'm Mazen Asag</h1>
-<h3 align="center">🚀 Data Scientist | Machine Learning Enthusiast | NLP Explorer from Yemen 🇾🇪</h3>
+<h3 align="center">🚀 Machine Learning Engineer | Data Scientist |  NLP Explorer from Yemen 🇾🇪</h3>
 
 <p align="center">
   <a href="https://mazenasag.github.io/mazen/" target="_blank"><img src="https://img.shields.io/badge/My%20Portfolio-Visit%20Now-brightgreen?style=for-the-badge&logo=google-chrome" /></a>
@@ -16,10 +16,10 @@
 
 ### 💼 About Me
 
-- 🔭 Currently focused on Machine Learning Engineering [Developing and deploying end-to-end ML solutions, with hands-on experience in fraud detection using PCA, regression models, and scalable pipelines.](https://github.com/Mazenasag/Detecting-Card-Fraud)
+- 🔭 Currently focused on Machine Learning Engineering [Developing and deploying end-to-end ML solutions, with hands-on experience in recommendation systems fraud detection using PCA, regression models, and scalable pipelines.](https://github.com/Mazenasag/Detecting-Card-Fraud)
 - 🌱  Building Advanced ML Pipelines & Model Deployment Skills **Deeply involved in designing real-time data processing systems, automating model monitoring (MLOps), and integrating models into production using cloud services like AWS SageMaker and Google AI Platform.**
-- 🤖Exploring AI, Psychology, and Human-Centric Solutions **Passionate about bridging AI with human behavior, user experience, and personalization. Skilled in building recommender systems, user behavior analysis, and data-driven product improvements.**
-- 💡 Passionate about **building Emotion-Aware AI for Customer Service ,developing machine learning models for content recommendation, and user engagement analytics, inspired by the latest advances in deep learning and NLP.**
+- 🤖Exploring AI, Psychology, and Human-Centric Solutions.
+- 💡 Passionate about **developing machine learning models for content recommendation, and user engagement analytics, user experience, and personalization inspired by the latest advances in deep learning and NLP.**
 - 👨‍💻 All my work is available at: [GitHub Portfolio](https://github.com/Mazenasag)
 - Real-time Machine Learning Pipelines.
 - Real-time Machine Learning Pipelines.
