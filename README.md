@@ -1,4 +1,4 @@
-<img src="https://cdn-media-1.freecodecamp.org/images/1*92h6Lg1Bu1F9QqoVNrkLdQ.jpeg" width="100%" height="300"/>
+<img src="https://cdn-media-1.freecodecamp.org/images/1*92h6Lg1Bu1F9QqoVNrkLdQ.jpeg" width="100%" height="500"/>
 
 
 <h1 align="center">Hi there 👋, I'm Mazen Asag</h1>
