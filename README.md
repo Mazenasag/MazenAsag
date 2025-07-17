@@ -17,7 +17,8 @@
 
 ### 💼 About Me
 
-- 🔭 Currently focused on Machine Learning Engineering [Developing and deploying end-to-end ML solutions, with hands-on experience in recommendation systems fraud detection using PCA, regression models, and scalable pipelines.](https://github.com/Mazenasag/Detecting-Card-Fraud)
+- 🔭 Currently focused on Machine Learning Engineering, with hands-on experience in building and deploying end-to-end ML solutions — including [hybrid recommendation systems](https://github.com/Mazenasag/RecAPI_MovieFuse) and fraud detection. Projects showcase scalable pipelines, dimensionality reduction (PCA), regression models, and transformer-based architectures.
+
 - 🌱  Building Advanced ML Pipelines & Model Deployment Skills **Deeply involved in designing real-time data processing systems, automating model monitoring (MLOps), and integrating models into production using cloud services like AWS SageMaker and Google AI Platform.**
 - 🤖Exploring AI, Psychology, and Human-Centric Solutions.
 - 💡 Passionate about **developing machine learning models for content recommendation, and user engagement analytics, user experience, and personalization inspired by the latest advances in deep learning and NLP.**
