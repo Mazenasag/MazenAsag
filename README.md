@@ -1,4 +1,5 @@
-<img src="[https://imageio.forbes.com/specials-images/imageserve/635f79fbf214917bd2876e03/The-Top-5-Data-Science-And-Analytics-Trends-In-2023/960x0.jpg?format=jpg&width=1440](https://cdn-media-1.freecodecamp.org/images/1*92h6Lg1Bu1F9QqoVNrkLdQ.jpeg)" width="100%" height="300"/>
+<img src="https://cdn-media-1.freecodecamp.org/images/1*92h6Lg1Bu1F9QqoVNrkLdQ.jpeg" width="100%" height="300"/>
+
 
 <h1 align="center">Hi there 👋, I'm Mazen Asag</h1>
 <h3 align="center">🚀 Machine Learning Engineer | Data Scientist |  NLP Explorer from Yemen 🇾🇪</h3>
