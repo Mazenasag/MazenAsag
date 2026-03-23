@@ -40,7 +40,7 @@
 <p align="left">
   <a href="https://twitter.com/mazenasag" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" width="40" height="40"/></a>
   <a href="https://linkedin.com/in/mazen-asag" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="40" height="40"/></a>
-  <a href="https://fb.com/mazen.alnabhi" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" width="40" height="40"/></a>
+  <a href="https://www.facebook.com/share/1Fo2k359Bp/?mibextid=wwXIfr" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" width="40" height="40"/></a>
   <a href="https://leetcode.com/mazenasag/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" width="40" height="40"/></a>
 </p>
 
