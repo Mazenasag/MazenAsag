@@ -75,42 +75,38 @@
 > *"I enjoy combining **cognitive science** with advanced ML — building AI that is genuinely **human-centered** and makes a real impact."*
  
 ---
- 
+
 ## 🛠️ Tech Stack
- 
-**Core ML & AI**
- 
+
+### Core ML & AI
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
- 
-**Data & Visualization**
- 
+
+### Data & Visualization
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat-square&logoColor=white)
- 
-**Cloud & DevOps**
- 
+
+### Cloud & DevOps
 ![AWS](https://img.shields.io/badge/AWS_SageMaker-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
- 
-**Databases**
- 
+
+### Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
- 
+
 ---
- 
+
 ## 🚀 Featured Projects
- 
+
 <table>
   <tr>
     <td width="50%" valign="top">
@@ -165,23 +161,29 @@
     </td>
   </tr>
 </table>
+
 ---
- 
+
 ## 📊 GitHub Stats
- 
+
 <div align="center">
+
 <img height="180" src="https://github-readme-stats.vercel.app/api?username=mazenasag&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0f0c29&title_color=c4c0f8&icon_color=1d9e75&text_color=ffffff" alt="GitHub Stats"/>
 &nbsp;&nbsp;
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mazenasag&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=c4c0f8&text_color=ffffff" alt="Top Languages"/>
+
 <br/><br/>
- 
+
 <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=mazenasag&theme=tokyonight&hide_border=true&background=0f0c29&ring=7f77dd&fire=1d9e75&currStreakLabel=c4c0f8&sideLabels=c4c0f8&currStreakNum=ffffff&sideNums=ffffff&dates=888780" alt="GitHub Streak"/>
+
 </div>
+
 ---
- 
+
 ## 🤝 Connect With Me
- 
+
 <div align="center">
+
 <a href="https://linkedin.com/in/mazen-asag" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-Mazen%20Asag-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
@@ -201,15 +203,23 @@
 <a href="https://mazenasag.github.io/mazen/" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-mazenasag.github.io-1d9e75?style=for-the-badge&logo=google-chrome&logoColor=white"/>
 </a>
+
 <br/><br/>
- 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer&animation=fadeIn" alt="Footer"/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer&animation=fadeIn" alt="Footer wave"/>
+
 </div>
+
 <!--
-  HOW TO USE:
-  1. Create a NEW repo on GitHub named exactly: Mazenasag
-  2. Make it Public and initialize with a README
-  3. Replace README.md content with this file
-  4. Commit — your profile updates instantly!
-  Tip: update project href links once your repos go public
+  ╔═══════════════════════════════════════════════════════════════╗
+  ║  HOW TO USE THIS README                                       ║
+  ║                                                               ║
+  ║  1. Go to github.com and create a NEW repository              ║
+  ║  2. Name it exactly: Mazenasag  (same as your username)       ║
+  ║  3. Make it PUBLIC and tick "Add a README file"               ║
+  ║  4. Replace the README.md content with this file              ║
+  ║  5. Commit — your profile page updates immediately!           ║
+  ║                                                               ║
+  ║  Tip: Update project links once your repos are live           ║
+  ╚═══════════════════════════════════════════════════════════════╝
 -->
