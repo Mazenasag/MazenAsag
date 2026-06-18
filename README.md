@@ -1,116 +1,116 @@
-<!--
-  ╔══════════════════════════════════════════════════════════╗
-  ║       MAZEN ASAG — GitHub Profile README                 ║
-  ║  Drop this file into your GitHub profile repository      ║
-  ║  (repo name must match your username: Mazenasag)         ║
-  ╚══════════════════════════════════════════════════════════╝
--->
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Mazen%20Asag&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Machine%20Learning%20Engineer%20%7C%20Data%20Scientist%20%7C%20NLP%20Explorer&descAlignY=58&descColor=c4c0f8&animation=fadeIn" alt="Mazen Asag"/>
 <div align="center">
-
-<!-- ─── HERO BANNER ─── -->
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Mazen%20Asag&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Machine%20Learning%20Engineer%20%7C%20Data%20Scientist%20%7C%20NLP%20Explorer&descAlignY=58&descColor=c4c0f8&animation=fadeIn" alt="Mazen Asag Hero Banner"/>
-
-<!-- ─── STATUS BADGES ─── -->
-
-<p>
-  <img src="https://komarev.com/ghpvc/?username=mazenasag&style=for-the-badge&color=7f77dd&label=Profile+Views" alt="Profile views"/>
-  &nbsp;
-  <a href="https://mazenasag.github.io/mazen/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-1d9e75?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
-  </a>
-  &nbsp;
-  <a href="mailto:mezonabhy@gmail.com">
-    <img src="https://img.shields.io/badge/Email-mezonabhy%40gmail.com-7f77dd?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Open%20To-Opportunities-1d9e75?style=for-the-badge" alt="Open to opportunities"/>
-</p>
-
-<br/>
-
+<img src="https://komarev.com/ghpvc/?username=mazenasag&style=for-the-badge&color=7f77dd&label=Profile+Views" alt="Profile views"/>
+&nbsp;
+<a href="https://mazenasag.github.io/mazen/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Visit%20Now-1d9e75?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/></a>
+&nbsp;
+<a href="mailto:mezonabhy@gmail.com"><img src="https://img.shields.io/badge/Email-mezonabhy%40gmail.com-7f77dd?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+&nbsp;
+<img src="https://img.shields.io/badge/Open%20To-Opportunities-1d9e75?style=for-the-badge" alt="Open to opportunities"/>
 </div>
-
 ---
-
+ 
 ## 👋 About Me
-
-```python
-mazen = {
-    "name"      : "Mazen Asag",
-    "location"  : "Yemen 🇾🇪",
-    "role"      : "Machine Learning Engineer & Data Scientist",
-    "focus"     : ["MLOps", "NLP", "Recommender Systems", "Fraud Detection"],
-    "cloud"     : ["AWS SageMaker", "Google AI Platform", "Azure"],
-    "currently" : "Building real-time ML pipelines & model monitoring systems",
-    "passion"   : "Combining cognitive science with AI for human-centered solutions",
-    "contact"   : "mezonabhy@gmail.com"
-}
-```
-
-> *"I enjoy combining cognitive science with advanced ML techniques — creating smarter, human-centered AI solutions that make a real impact."*
-
----
-
-## 🎯 What I'm Working On
-
+ 
 <table>
   <tr>
     <td width="50%">
-      <h4>🔭 Currently Building</h4>
-      <ul>
-        <li>Real-time ML pipeline automation</li>
-        <li>Automated model monitoring (MLOps)</li>
-        <li>Production model deployment on AWS SageMaker</li>
-        <li>Hybrid recommendation systems</li>
-      </ul>
+      <table>
+        <tr>
+          <td>🧠</td>
+          <td><strong>Role</strong></td>
+          <td>ML Engineer &amp; Data Scientist</td>
+        </tr>
+        <tr>
+          <td>📍</td>
+          <td><strong>Based in</strong></td>
+          <td>Yemen 🇾🇪</td>
+        </tr>
+        <tr>
+          <td>☁️</td>
+          <td><strong>Cloud</strong></td>
+          <td>AWS SageMaker · Google AI Platform · Azure</td>
+        </tr>
+        <tr>
+          <td>📬</td>
+          <td><strong>Contact</strong></td>
+          <td>mezonabhy@gmail.com</td>
+        </tr>
+      </table>
     </td>
     <td width="50%">
-      <h4>🌱 Exploring</h4>
+      <strong>Focus Areas</strong><br/><br/>
+      <img src="https://img.shields.io/badge/MLOps-7f77dd?style=flat-square&logoColor=white"/>
+      <img src="https://img.shields.io/badge/NLP-1d9e75?style=flat-square&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Recommender%20Systems-1d9e75?style=flat-square&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Fraud%20Detection-d85a30?style=flat-square&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Real--time%20Pipelines-378add?style=flat-square&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Transformers-7f77dd?style=flat-square&logoColor=white"/>
+    </td>
+  </tr>
+</table>
+<br/>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🟢 Currently Building</h4>
+      <ul>
+        <li>Real-time ML pipeline automation</li>
+        <li>Automated model monitoring with MLOps</li>
+        <li>Production deployment on AWS SageMaker</li>
+        <li>Hybrid recommendation engines</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🟣 Exploring</h4>
       <ul>
         <li>Transformer-based NLP architectures</li>
         <li>Emotion-Aware AI for customer service</li>
         <li>Cognitive science × deep learning</li>
-        <li>User engagement analytics & personalization</li>
+        <li>User engagement analytics &amp; personalization</li>
       </ul>
     </td>
   </tr>
 </table>
-
+> *"I enjoy combining **cognitive science** with advanced ML — building AI that is genuinely **human-centered** and makes a real impact."*
+ 
 ---
-
+ 
 ## 🛠️ Tech Stack
-
-### Core ML & AI
+ 
+**Core ML & AI**
+ 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-
-### Data & Visualization
+ 
+**Data & Visualization**
+ 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat-square&logoColor=white)
-
-### Cloud & DevOps
+ 
+**Cloud & DevOps**
+ 
 ![AWS](https://img.shields.io/badge/AWS_SageMaker-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-
-### Databases
+ 
+**Databases**
+ 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
+ 
 ---
-
+ 
 ## 🚀 Featured Projects
-
+ 
 <table>
   <tr>
     <td width="50%" valign="top">
@@ -165,29 +165,23 @@ mazen = {
     </td>
   </tr>
 </table>
-
 ---
-
+ 
 ## 📊 GitHub Stats
-
+ 
 <div align="center">
-
 <img height="180" src="https://github-readme-stats.vercel.app/api?username=mazenasag&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0f0c29&title_color=c4c0f8&icon_color=1d9e75&text_color=ffffff" alt="GitHub Stats"/>
 &nbsp;&nbsp;
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mazenasag&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=c4c0f8&text_color=ffffff" alt="Top Languages"/>
-
 <br/><br/>
-
+ 
 <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=mazenasag&theme=tokyonight&hide_border=true&background=0f0c29&ring=7f77dd&fire=1d9e75&currStreakLabel=c4c0f8&sideLabels=c4c0f8&currStreakNum=ffffff&sideNums=ffffff&dates=888780" alt="GitHub Streak"/>
-
 </div>
-
 ---
-
+ 
 ## 🤝 Connect With Me
-
+ 
 <div align="center">
-
 <a href="https://linkedin.com/in/mazen-asag" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-Mazen%20Asag-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
@@ -207,23 +201,15 @@ mazen = {
 <a href="https://mazenasag.github.io/mazen/" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-mazenasag.github.io-1d9e75?style=for-the-badge&logo=google-chrome&logoColor=white"/>
 </a>
-
 <br/><br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer&animation=fadeIn" alt="Footer wave"/>
-
+ 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer&animation=fadeIn" alt="Footer"/>
 </div>
-
 <!--
-  ╔═══════════════════════════════════════════════════════════════╗
-  ║  HOW TO USE THIS README                                       ║
-  ║                                                               ║
-  ║  1. Go to github.com and create a NEW repository              ║
-  ║  2. Name it exactly: Mazenasag  (same as your username)       ║
-  ║  3. Make it PUBLIC and tick "Add a README file"               ║
-  ║  4. Replace the README.md content with this file              ║
-  ║  5. Commit — your profile page updates immediately!           ║
-  ║                                                               ║
-  ║  Tip: Update project links once your repos are live           ║
-  ╚═══════════════════════════════════════════════════════════════╝
+  HOW TO USE:
+  1. Create a NEW repo on GitHub named exactly: Mazenasag
+  2. Make it Public and initialize with a README
+  3. Replace README.md content with this file
+  4. Commit — your profile updates instantly!
+  Tip: update project href links once your repos go public
 -->
